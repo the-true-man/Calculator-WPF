@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evgen\\YandexDisk\\project\\simpleCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16AC9232-0AB5-40EC-99DD-D96CB62F5E9C}|simpleCalculator\\simpleCalculator.csproj|c:\\users\\evgen\\yandexdisk\\project\\simplecalculator\\simplecalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AC9232-0AB5-40EC-99DD-D96CB62F5E9C}|simpleCalculator\\simpleCalculator.csproj|solutionrelative:simplecalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AC9232-0AB5-40EC-99DD-D96CB62F5E9C}|simpleCalculator\\simpleCalculator.csproj|C:\\Users\\evgen\\YandexDisk\\project\\simpleCalculator\\simplecalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{16AC9232-0AB5-40EC-99DD-D96CB62F5E9C}|simpleCalculator\\simpleCalculator.csproj|solutionrelative:simplecalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 598,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\evgen\\YandexDisk\\project\\simpleCalculator\\simpleCalculator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "simpleCalculator\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\evgen\\YandexDisk\\project\\simpleCalculator\\simpleCalculator\\MainWindow.xaml",
+              "RelativeToolTip": "simpleCalculator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-05T01:12:49.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\YandexDisk\\project\\simpleCalculator\\simpleCalculator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "simpleCalculator\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\evgen\\YandexDisk\\project\\simpleCalculator\\simpleCalculator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "simpleCalculator\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwOEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:12:50.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

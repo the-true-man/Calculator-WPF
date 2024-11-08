@@ -1,0 +1,30 @@
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.exe.config
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.exe
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.pdb
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.AssemblyReference.cache
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\obj\Debug\App.g.cs
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator_MarkupCompile.cache
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator_MarkupCompile.lref
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\obj\Debug\MainWindow.baml
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.g.resources
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.Properties.Resources.resources
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.GenerateResource.cache
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.exe
+C:\Users\evgen\YandexDisk\my project\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.pdb
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.exe.config
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.exe
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.pdb
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.AssemblyReference.cache
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\obj\Debug\App.g.cs
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator_MarkupCompile.cache
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator_MarkupCompile.lref
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\obj\Debug\MainWindow.baml
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.g.resources
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.Properties.Resources.resources
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.GenerateResource.cache
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.exe
+C:\Users\evgen\YandexDisk\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.pdb
