@@ -34,7 +34,7 @@ namespace simpleCalculator
             InitializeComponent();
             buttonNum = new List<Button>() { btn_0, btn_1, btn_2, btn_3, btn_4, btn_5, btn_6, btn_7, btn_8, btn_9 };
             buttonActions = new List<Button>() { btn_plus, btn_minus, btn_multiply, btn_div};
-            buttonAllActions = new List<Button>() { btn_plus, btn_minus, btn_multiply, btn_div, btn_dot, btn_pow, btn_sqrt,btn_equally};
+            buttonAllActions = new List<Button>() { btn_plus, btn_minus, btn_multiply, btn_div, btn_dot, btn_equally};
             foreach (Button button in buttonNum)
             {
                 button.Click += inputNumber;
@@ -75,6 +75,7 @@ namespace simpleCalculator
         }
         public void calcutale()
         {
+            
             if (lastSymbolIsSign)
             {
                 return;
@@ -99,34 +100,35 @@ namespace simpleCalculator
         }
         public void plus(string num1, string num2)
         {
-            tb_expression.Text = (double.Parse(num1) + double.Parse(num2)).ToString();
-
+            tb_expression.Text = Calculator.Sum(double.Parse(num1), double.Parse(num2)).ToString();
         }
         public void minus(string num1, string num2)
         {
-            tb_expression.Text = (double.Parse(num1) - double.Parse(num2)).ToString();
-
+            tb_expression.Text = Calculator.Sum(double.Parse(num1), double.Parse(num2)).ToString();
         }
         public void multiply(string num1, string num2)
         {
-            tb_expression.Text = (double.Parse(num1) * double.Parse(num2)).ToString();
-
+            tb_expression.Text = Calculator.Multiply(double.Parse(num1), double.Parse(num2)).ToString();
         }
         public void div(string num1, string num2)
         {
-            tb_expression.Text = (double.Parse(num1) / double.Parse(num2)).ToString();
-
+            if(num2 == "0")
+            {
+                lockActions();
+                MessageBox.Show("Второе число равно 0");
+                return;
+            }
+            tb_expression.Text =Calculator.Div(double.Parse(num1), double.Parse(num2)).ToString();
         }
         private void btn_ac_Click(object sender, RoutedEventArgs e)
         {
             lastSymbolIsSign =true;
             sign = null;
-            tb_expression.Text = "0";
+            tb_expression.Text = Calculator.Clear().ToString();
             lb_history.Content = "";
             isEqually = false;
             valueNotEmpty = false;
             unlockActions();
-
         }
 
         private void btn_equally_Click(object sender, RoutedEventArgs e)
@@ -171,28 +173,19 @@ namespace simpleCalculator
             num1 = tb_expression.Text;
             
             isEqually = true;
+            if (tb_expression.Text.Contains("∞"))
+            {
+                lastSymbolIsSign = true;
+                sign = null;
+                tb_expression.Text = "0";
+                lb_history.Content = "";
+                isEqually = false;
+                valueNotEmpty = false;
+                unlockActions();
+            }
         }
 
-        private void btn_pow_Click(object sender, RoutedEventArgs e)
-        {
-            tb_expression.Text = Math.Pow(double.Parse(tb_expression.Text),2).ToString();
-            if (tb_expression.Text == "∞")
-            {
-                
-                lockActions();
-            }
-            num1 = tb_expression.Text;
-        }
-
-        private void btn_sqrt_Click(object sender, RoutedEventArgs e)
-        {
-            if (double.Parse(tb_expression.Text) < 0)
-            {
-                lockActions();
-            }
-            tb_expression.Text = Math.Sqrt(double.Parse(tb_expression.Text)).ToString();
-            num1 = tb_expression.Text;
-        }
+        
         public void lockActions()
         {
             tb_expression.Text = "Ошибка";

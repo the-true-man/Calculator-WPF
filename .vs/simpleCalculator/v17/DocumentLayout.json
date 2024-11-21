@@ -1,13 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\evgen\\YandexDisk\\project\\simpleCalculator\\",
+  "WorkspaceRootPath": "C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16AC9232-0AB5-40EC-99DD-D96CB62F5E9C}|simpleCalculator\\simpleCalculator.csproj|c:\\users\\evgen\\yandexdisk\\project\\simplecalculator\\simplecalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16AC9232-0AB5-40EC-99DD-D96CB62F5E9C}|simpleCalculator\\simpleCalculator.csproj|C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\simplecalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16AC9232-0AB5-40EC-99DD-D96CB62F5E9C}|simpleCalculator\\simpleCalculator.csproj|solutionrelative:simplecalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16AC9232-0AB5-40EC-99DD-D96CB62F5E9C}|simpleCalculator\\simpleCalculator.csproj|C:\\Users\\evgen\\YandexDisk\\project\\simpleCalculator\\simplecalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{59217B65-1D33-4F17-8342-0FD07E640E7E}|SimpleCalculatorTest\\SimpleCalculatorTest.csproj|c:\\users\\evgenijmihajlov\\source\\repos\\calculator-wpf\\simplecalculatortest\\simplecalculatortest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59217B65-1D33-4F17-8342-0FD07E640E7E}|SimpleCalculatorTest\\SimpleCalculatorTest.csproj|solutionrelative:simplecalculatortest\\simplecalculatortest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59217B65-1D33-4F17-8342-0FD07E640E7E}|SimpleCalculatorTest\\SimpleCalculatorTest.csproj|c:\\users\\evgenijmihajlov\\source\\repos\\calculator-wpf\\simplecalculatortest\\actionstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59217B65-1D33-4F17-8342-0FD07E640E7E}|SimpleCalculatorTest\\SimpleCalculatorTest.csproj|solutionrelative:simplecalculatortest\\actionstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AC9232-0AB5-40EC-99DD-D96CB62F5E9C}|simpleCalculator\\simpleCalculator.csproj|C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\simplecalculator\\calc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AC9232-0AB5-40EC-99DD-D96CB62F5E9C}|simpleCalculator\\simpleCalculator.csproj|solutionrelative:simplecalculator\\calc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AC9232-0AB5-40EC-99DD-D96CB62F5E9C}|simpleCalculator\\simpleCalculator.csproj|C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\simplecalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AC9232-0AB5-40EC-99DD-D96CB62F5E9C}|simpleCalculator\\simpleCalculator.csproj|solutionrelative:simplecalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AC9232-0AB5-40EC-99DD-D96CB62F5E9C}|simpleCalculator\\simpleCalculator.csproj|C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\simplecalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{16AC9232-0AB5-40EC-99DD-D96CB62F5E9C}|simpleCalculator\\simpleCalculator.csproj|solutionrelative:simplecalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -18,31 +37,93 @@
       "DocumentGroups": [
         {
           "DockedHeight": 598,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPEAAAD8/////38kwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-20T11:23:44.46Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\evgen\\YandexDisk\\project\\simpleCalculator\\simpleCalculator\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "simpleCalculator\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\evgen\\YandexDisk\\project\\simpleCalculator\\simpleCalculator\\MainWindow.xaml",
-              "RelativeToolTip": "simpleCalculator\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-05T01:12:49.712Z"
+              "Title": "SimpleCalculatorTest.csproj",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\SimpleCalculatorTest\\SimpleCalculatorTest.csproj",
+              "RelativeDocumentMoniker": "SimpleCalculatorTest\\SimpleCalculatorTest.csproj",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\SimpleCalculatorTest\\SimpleCalculatorTest.csproj",
+              "RelativeToolTip": "SimpleCalculatorTest\\SimpleCalculatorTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T11:21:55.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActionsTest.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\SimpleCalculatorTest\\ActionsTest.cs",
+              "RelativeDocumentMoniker": "SimpleCalculatorTest\\ActionsTest.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\SimpleCalculatorTest\\ActionsTest.cs",
+              "RelativeToolTip": "SimpleCalculatorTest\\ActionsTest.cs",
+              "ViewState": "AgIAAK8BAAAA0szMzEwqwMYBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:21:42.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\simpleCalculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "simpleCalculator\\Calculator.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\simpleCalculator\\Calculator.cs",
+              "RelativeToolTip": "simpleCalculator\\Calculator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:21:16.245Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\evgen\\YandexDisk\\project\\simpleCalculator\\simpleCalculator\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\simpleCalculator\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "simpleCalculator\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\evgen\\YandexDisk\\project\\simpleCalculator\\simpleCalculator\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\simpleCalculator\\MainWindow.xaml.cs",
               "RelativeToolTip": "simpleCalculator\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAIwOEAAAAlAAAA",
+              "ViewState": "AgIAAFYAAACAMTMzM3MhwGsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T01:12:50.037Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calc2.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\simpleCalculator\\Calc2.cs",
+              "RelativeDocumentMoniker": "simpleCalculator\\Calc2.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\simpleCalculator\\Calc2.cs",
+              "RelativeToolTip": "simpleCalculator\\Calc2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:43:11.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\simpleCalculator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "simpleCalculator\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\source\\repos\\Calculator-WPF\\simpleCalculator\\MainWindow.xaml",
+              "RelativeToolTip": "simpleCalculator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-05T01:12:49.712Z"
             }
           ]
         }

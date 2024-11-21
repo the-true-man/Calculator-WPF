@@ -37,15 +37,14 @@
         <Button x:Name="btn_minus" Grid.Row="4" Grid.Column="3" Margin="6" FontSize="40" Content="-"></Button>
         <Button x:Name="btn_multiply" Grid.Row="3" Grid.Column="3" Margin="6" FontSize="40" Content="*"></Button>
         <Button x:Name="btn_div" Grid.Row="2" Grid.Column="3" Margin="6" FontSize="40" Content="/"></Button>
-        <Button x:Name="btn_sqrt" Grid.Row="2" Grid.Column="2" Margin="6" FontSize="40" Content="√x" Click="btn_sqrt_Click"></Button>
-        <Button x:Name="btn_pow" Grid.Row="2" Grid.Column="1" Margin="6" FontSize="40" Content="x²" Click="btn_pow_Click"></Button>
+       
         <Button x:Name="btn_equally" Grid.Row="6" Grid.Column="3" Margin="6" FontSize="40" Content="=" Click="btn_equally_Click"></Button>
         
         <Button x:Name="btn_dot" Grid.Row="6" Grid.Column="2" Margin="6" FontSize="40" Content="," Click="btn_dot_Click"></Button>
 
-        <Button x:Name="btn_ac" Grid.Row="2" Grid.Column="0" Margin="6" FontSize="40" Content="AC" Click="btn_ac_Click"></Button>
+        <Button x:Name="btn_ac" Grid.Row="2" Grid.Column="0" Margin="6" Grid.ColumnSpan="3" FontSize="40" Content="AC" Click="btn_ac_Click"></Button>
 
-        <TextBox x:Name="tb_expression" FontSize="50" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" TextAlignment="Right"></TextBox>
+        <TextBox x:Name="tb_expression" IsReadOnly="True" FontSize="50" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" TextAlignment="Right"></TextBox>
         <Label x:Name="lb_history" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontSize="25"></Label>
     </Grid>
 </Window>
